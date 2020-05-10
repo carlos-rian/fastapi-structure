@@ -1,0 +1,8 @@
+
+[default]
+colors = ["green", "blue"]
+parameters = {enabled=true, number=42}
+
+[development]
+SQLALCHEMY_DATABASE_URI = "sqlite:///./db_fastapi.db"
+
