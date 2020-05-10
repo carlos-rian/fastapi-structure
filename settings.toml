@@ -1,6 +1,5 @@
 
 [default]
-colors = ["green", "blue"]
 parameters = {enabled=true, number=42}
 
 [development]
