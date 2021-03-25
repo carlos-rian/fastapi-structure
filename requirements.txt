@@ -20,7 +20,7 @@ pylint-flask==0.6
 pylint-plugin-utils==0.6
 python-box==3.4.6
 python-dotenv==0.13.0
-PyYAML==5.3.1
+PyYAML==5.4
 requirements-detector==0.6
 setoptconf==0.2.0
 six==1.14.0
