@@ -10,7 +10,7 @@ pep8==1.7.1
 pep8-naming==0.4.1
 prospector==1.2.0
 pycodestyle==2.4.0
-pydantic==1.5.1
+pydantic==1.6.2
 pydocstyle==5.0.2
 pyflakes==2.1.1
 pylint==2.4.4
